@@ -22,7 +22,7 @@ The form submission is handled via JavaScript using the `fetch` API to send data
 - Designed with a clean and simple user interface.
 
 ## Demo
-You can check a live demo of the profile page [here](https://sergiotrrs.github.io/persona-page/).
+You can check a live demo of the profile page [here](https://sergiotrrs.github.io/personal-page/).
 
 ## Getting Started
 
